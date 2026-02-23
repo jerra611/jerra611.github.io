@@ -1,0 +1,133 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Custom color palette for calm, zen aesthetic */
+:root {
+  --sage-green: #7ba591;
+  --soft-sage: #a8c5b8;
+  --warm-cream: #f5f3ed;
+  --warm-beige: #e8e4db;
+  --soft-grey: #666666;
+  --deep-teal: #5a7d6f;
+}
+
+/* Body and typography */
+body {
+  background-color: var(--warm-cream);
+  color: var(--soft-grey);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.7;
+}
+
+/* Header styling */
+.site-header {
+  border-top: 3px solid var(--sage-green);
+  border-bottom: 1px solid var(--warm-beige);
+  background-color: #ffffff;
+}
+
+.site-title {
+  color: var(--deep-teal) !important;
+  font-weight: 500;
+  letter-spacing: 0.3px;
+}
+
+.site-nav .page-link {
+  color: var(--soft-grey);
+  transition: color 0.3s ease;
+}
+
+.site-nav .page-link:hover {
+  color: var(--sage-green);
+}
+
+/* Main content area */
+.page-content {
+  background-color: #ffffff;
+  padding: 3rem 0;
+}
+
+.wrapper {
+  max-width: 900px;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--deep-teal);
+  font-weight: 500;
+}
+
+h1 {
+  margin-bottom: 1.5rem;
+}
+
+h2 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--warm-beige);
+}
+
+/* Links */
+a {
+  color: var(--sage-green);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--deep-teal);
+  text-decoration: underline;
+}
+
+/* Buttons and CTAs */
+.cta-button {
+  display: inline-block;
+  padding: 12px 30px;
+  background-color: var(--sage-green);
+  color: white !important;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: 500;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.cta-button:hover {
+  background-color: var(--deep-teal);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+  text-decoration: none;
+  transform: translateY(-1px);
+}
+
+/* Footer */
+.site-footer {
+  border-top: 1px solid var(--warm-beige);
+  background-color: var(--warm-cream);
+  color: var(--soft-grey);
+}
+
+/* Add subtle spacing and breathing room */
+p {
+  margin-bottom: 1.2rem;
+}
+
+ul, ol {
+  margin-bottom: 1.5rem;
+}
+
+li {
+  margin-bottom: 0.5rem;
+}
+
+/* Responsive images */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Add gentle transitions */
+* {
+  transition: color 0.2s ease, background-color 0.2s ease;
+}
