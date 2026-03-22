@@ -10,12 +10,11 @@ Thank you for your interest in working together. Reaching out for support is an 
 
 ### Contact Information
 
-**Email:** [your-email@example.com](mailto:your-email@example.com)
-**Phone:** [(XXX) XXX-XXXX](tel:+1XXXXXXXXXX)
+**Email:** [jerra@jerratherapy.com](mailto:jerra@jerratherapy.com)
+**Phone:** [(951) 217-4282](tel:+19512174282)
 
-**Office Location:**
-[Your Practice Address]
-[City, State ZIP]
+**Practice Format:**
+Telehealth services available throughout Colorado
 
 ### How to Get Started
 

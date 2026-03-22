@@ -29,7 +29,11 @@ Therapy is a collaborative journey. In our work together, you can expect:
 
 ## Education & Training
 
-[Add your educational background, certifications, and relevant training here]
+**Master of Arts in Marriage and Family Therapy**
+Regis University
+
+**Bachelor of Arts in Psychology**
+San Diego State University
 
 ## Supervised Practice
 
