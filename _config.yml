@@ -9,8 +9,6 @@ url: "https://jerratherapy.com"
 
 # Theme settings
 theme: minima
-minima:
-  skin: solarized
 
 # Navigation
 header_pages:
