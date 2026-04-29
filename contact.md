@@ -31,23 +31,20 @@ I typically respond to inquiries within 24-48 hours (excluding weekends and holi
 - My approach and how I might be able to help
 - Practical details like scheduling, fees, and insurance
 
-### Office Hours
-
-**Monday - Thursday:** 9:00 AM - 6:00 PM
-**Friday:** 9:00 AM - 3:00 PM
-**Saturday - Sunday:** Closed
-
-*Hours are flexible and may include some evening appointments.*
-
 ---
 
 ## Frequently Asked Questions
 
 **Do you accept insurance?**
-[Add your insurance information here]
+I am currently a private pay practice and do not accept insurance directly. However, I can provide you with a superbill (detailed receipt) that you can submit to your insurance company for potential out-of-network reimbursement.
+
+**What are your rates?**
+- 60-minute session: $150
+- 90-minute session: $200
+- 2-hour session: $250
 
 **What if I need to cancel or reschedule?**
-Please provide at least 24 hours notice when possible. [Add your cancellation policy]
+I require at least 24 hours notice for cancellations or rescheduling. Cancellations made within 24 hours of your scheduled appointment will be charged 50% of the session fee. I understand that emergencies happen—please reach out and we can discuss your situation.
 
 **Is therapy confidential?**
 Yes, therapy is confidential with limited exceptions required by law (such as imminent risk of harm).

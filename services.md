@@ -44,7 +44,13 @@ I have particular interest and training in working with:
 **Format:** In-person or telehealth options available
 
 **Fees & Insurance:**
-[Add your fee information and insurance details here]
+
+Session rates:
+- 60-minute session: $150
+- 90-minute session: $200
+- 2-hour session: $250
+
+I am a private pay practice and do not accept insurance directly. I can provide superbills for you to submit to your insurance company for potential out-of-network reimbursement. Payment is due at time of service.
 
 ---
 

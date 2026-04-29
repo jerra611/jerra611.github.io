@@ -5,7 +5,7 @@ description: >-
   compassionate, personalized therapy services.
 
 baseurl: ""
-url: "https://jerra611.github.io"
+url: "https://jerratherapy.com"
 
 # Theme settings
 theme: minima
@@ -17,6 +17,7 @@ header_pages:
   - index.md
   - about.md
   - services.md
+  - get-started.md
   - contact.md
 
 # Build settings
