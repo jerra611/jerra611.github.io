@@ -8,6 +8,10 @@ permalink: /contact/
 
 Thank you for your interest in working together. Reaching out for support is an important first step, and I'm glad you're here.
 
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://jerra-stemmle.clientsecure.me" target="_blank" style="display: inline-block; padding: 15px 40px; background-color: #5a8a73; color: white; text-decoration: none; border-radius: 5px; font-weight: 600; transition: background-color 0.3s; font-size: 1.1em;">Schedule Your Free Consultation</a>
+</div>
+
 ### Contact Information
 
 **Email:** [jerra@jerratherapy.com](mailto:jerra@jerratherapy.com)

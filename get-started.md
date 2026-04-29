@@ -14,7 +14,9 @@ Taking the first step toward therapy is often the hardest part. I'm here to make
 
 ### 1. Reach Out
 
-Contact me by [email](mailto:jerra@jerratherapy.com) or phone [(951) 217-4282](tel:+19512174282) to express your interest in therapy. Let me know a bit about what you're looking for and any questions you have.
+**Book online:** Use the booking button above to schedule your free consultation directly through my secure client portal.
+
+**Or contact me:** Reach out by [email](mailto:jerra@jerratherapy.com) or phone [(951) 217-4282](tel:+19512174282) to express your interest in therapy. Let me know a bit about what you're looking for and any questions you have.
 
 ### 2. Free Consultation
 
@@ -85,6 +87,8 @@ That's completely normal. The free consultation is designed to help you explore 
 I'd love to hear from you. Reach out today to schedule your free consultation.
 
 <div style="text-align: center; margin: 3rem 0;">
+  <a href="https://jerra-stemmle.clientsecure.me" target="_blank" style="display: inline-block; padding: 15px 40px; background-color: #5a8a73; color: white; text-decoration: none; border-radius: 5px; font-weight: 600; margin: 0.5rem; transition: background-color 0.3s; font-size: 1.1em;">Book Free Consultation</a>
+  <br>
   <a href="mailto:jerra@jerratherapy.com" style="display: inline-block; padding: 12px 30px; background-color: #7ba591; color: white; text-decoration: none; border-radius: 5px; font-weight: 500; margin: 0.5rem; transition: background-color 0.3s;">Email Me</a>
   <a href="tel:+19512174282" style="display: inline-block; padding: 12px 30px; background-color: #7ba591; color: white; text-decoration: none; border-radius: 5px; font-weight: 500; margin: 0.5rem; transition: background-color 0.3s;">Call Now</a>
 </div>

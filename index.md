@@ -17,6 +17,8 @@ title: Home
   <p>I believe that everyone is extremely resilient. I love helping people access their resilience and strength in order to feel empowered and capable. Therapy is a collaborative process, and I work alongside my clients to recognize their inherent strengths and develop practical strategies for positive change.</p>
 
   <div style="text-align: center; margin-top: 3rem;">
-    <a href="/contact" style="display: inline-block; padding: 12px 30px; background-color: #7ba591; color: white; text-decoration: none; border-radius: 5px; font-weight: 500; transition: background-color 0.3s;">Get in Touch</a>
+    <a href="https://jerra-stemmle.clientsecure.me" target="_blank" style="display: inline-block; padding: 15px 40px; background-color: #5a8a73; color: white; text-decoration: none; border-radius: 5px; font-weight: 600; margin: 0.5rem; transition: background-color 0.3s;">Book a Free Consultation</a>
+    <br>
+    <a href="/contact" style="display: inline-block; padding: 12px 30px; background-color: #7ba591; color: white; text-decoration: none; border-radius: 5px; font-weight: 500; margin: 0.5rem; transition: background-color 0.3s;">Contact Me</a>
   </div>
 </div>

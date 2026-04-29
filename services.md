@@ -54,4 +54,9 @@ I am a private pay practice and do not accept insurance directly. I can provide 
 
 ---
 
-Ready to get started? [Contact me](/contact) to schedule an initial consultation.
+<div style="text-align: center; margin: 2rem 0;">
+  <p>Ready to get started?</p>
+  <a href="https://jerra-stemmle.clientsecure.me" target="_blank" style="display: inline-block; padding: 15px 40px; background-color: #5a8a73; color: white; text-decoration: none; border-radius: 5px; font-weight: 600; margin: 0.5rem; transition: background-color 0.3s;">Book Your Free Consultation</a>
+  <br>
+  <a href="/contact" style="display: inline-block; padding: 10px 25px; background-color: #7ba591; color: white; text-decoration: none; border-radius: 5px; font-weight: 500; margin: 0.5rem; transition: background-color 0.3s; font-size: 0.95em;">Or Contact Me</a>
+</div>
