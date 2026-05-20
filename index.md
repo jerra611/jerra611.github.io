@@ -6,7 +6,7 @@ title: Home
 <div class="home-header" style="text-align: center; margin: 3rem 0;">
   <img src="/assets/images/headshot.jpg" alt="Jerra Stemmle" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover; margin-bottom: 1.5rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   <h1 style="margin-bottom: 0.5rem;">Welcome</h1>
-  <p style="font-size: 1.2rem; color: #666;">Jerra Stemmle, MFTC</p>
+  <p style="font-size: 1.2rem; color: #666;">Jerra Stemmle, MFT Associate</p>
 </div>
 
 <div class="bio-section" style="max-width: 700px; margin: 0 auto; line-height: 1.8;">

@@ -1,4 +1,4 @@
-# Jerra Stemmle, MFTC - Private Practice Website
+# Jerra Stemmle, MFT Associate - Private Practice Website
 
 A calm, professional website for marriage and family therapy practice, hosted on GitHub Pages using Jekyll.
 

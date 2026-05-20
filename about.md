@@ -37,4 +37,4 @@ San Diego State University
 
 ## Supervised Practice
 
-As a Marriage and Family Therapist Candidate (MFTC), I provide therapy under the supervision of [Supervisor Name], LMFT. This ensures you receive quality care supported by experienced clinical oversight.
+As a Marriage and Family Therapist Associate, I provide therapy under the supervision of [Supervisor Name], LMFT. This ensures you receive quality care supported by experienced clinical oversight.
