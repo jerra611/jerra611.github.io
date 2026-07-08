@@ -19,22 +19,7 @@
 
 /* Body and typography */
 body {
-  background:
-    linear-gradient(135deg,
-      rgba(232, 188, 168, 0.15) 0%,
-      rgba(240, 235, 227, 0.3) 25%,
-      rgba(250, 247, 242, 0.5) 50%,
-      rgba(240, 235, 227, 0.3) 75%,
-      rgba(193, 122, 92, 0.1) 100%
-    ),
-    repeating-linear-gradient(
-      45deg,
-      transparent,
-      transparent 35px,
-      rgba(122, 148, 113, 0.02) 35px,
-      rgba(122, 148, 113, 0.02) 70px
-    ),
-    #faf7f2 !important;
+  background: linear-gradient(135deg, #f0ebe3 0%, #faf7f2 50%, #e8bca8 100%) !important;
   background-attachment: fixed !important;
   color: var(--soft-grey);
   font-family: 'Georgia', 'Baskerville', serif;
