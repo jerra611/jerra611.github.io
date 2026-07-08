@@ -34,8 +34,8 @@ body {
       rgba(122, 148, 113, 0.02) 35px,
       rgba(122, 148, 113, 0.02) 70px
     ),
-    #faf7f2;
-  background-attachment: fixed;
+    #faf7f2 !important;
+  background-attachment: fixed !important;
   color: var(--soft-grey);
   font-family: 'Georgia', 'Baskerville', serif;
   line-height: 1.8;
