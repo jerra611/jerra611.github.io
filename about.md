@@ -4,6 +4,10 @@ title: About & Approach
 permalink: /about/
 ---
 
+<div style="text-align: center; margin: 2rem 0;">
+  <img src="/assets/images/headshot2.jpg" alt="Jerra Stemmle" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover; box-shadow: 0 6px 25px rgba(0,0,0,0.15); border: 4px solid white;">
+</div>
+
 ## My Approach
 
 My therapeutic approach is integrative, drawing from evidence-based practices while honoring each client's unique journey. I believe in the power of the therapeutic relationship and work to create a warm, authentic connection that fosters growth and healing.
