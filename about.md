@@ -4,11 +4,7 @@ title: About & Approach
 permalink: /about/
 ---
 
-## About Me
-
-Are you stuck in the same painful cycles—repeated conflict, communication breakdowns, resentment, or growing disconnection? Maybe you love each other but struggle to feel heard, understood, or emotionally safe. Maybe you're an individual navigating anxiety, depression, trauma, or a difficult life transition. Therapy can be a place to slow down, understand what's happening beneath the surface, and find a path forward.
-
-### My Journey to Therapy
+## My Journey to Therapy
 
 Before becoming a licensed therapist, I spent 15 years as a hairstylist at [Deseo Salon](https://deseosalondenver.com) in Denver. Those years taught me the profound importance of truly listening, creating safe spaces for vulnerability, and understanding that transformation—whether it's a new look or a new perspective—requires trust, patience, and collaboration. The skills I developed in building genuine connections and helping people feel seen carried forward into my transition to therapy, where I now support individuals and couples through their own transformations.
 
